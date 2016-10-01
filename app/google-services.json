@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "482268978427",
+    "firebase_url": "https://aarhus-housing-5b057.firebaseio.com",
+    "project_id": "aarhus-housing-5b057",
+    "storage_bucket": "aarhus-housing-5b057.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:482268978427:android:7d6f7ff09425e2f9",
+        "android_client_info": {
+          "package_name": "housing.br.com.aarhushousing"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "482268978427-gte0370pg8mif1pvjr1l5u56bofqnfr3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "housing.br.com.aarhushousing",
+            "certificate_hash": "EB54D6055DD58B188C8993742814669338EB1F7A"
+          }
+        },
+        {
+          "client_id": "482268978427-j4oa2dak8dod6rgn01gcc1amc1h3konv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBVI8L-STEisin4e4UoErkhcYjrBKeKYgw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "482268978427-j4oa2dak8dod6rgn01gcc1amc1h3konv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
